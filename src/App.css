@@ -1,0 +1,62 @@
+/* App.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  background-color: #ff7043; /* Orange background */
+  color: white;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.description-input {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+  border-radius: 8px;
+  background-color: #ffab91;
+  color: white;
+}
+
+.description-input::placeholder {
+  color: white;
+}
+
+.generate-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #ff7043; /* Orange text */
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.generate-button:hover {
+  background-color: #ffe0b2; /* Lighter orange on hover */
+}
+
+.generated-name {
+  margin-top: 20px;
+}
+
+.generated-name h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.generated-name p {
+  font-size: 20px;
+  font-weight: bold;
+}
