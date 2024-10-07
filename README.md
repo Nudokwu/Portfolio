@@ -20,3 +20,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+<img width="1236" alt="Screenshot 2024-10-06 at 10 06 57 PM" src="https://github.com/user-attachments/assets/e25a8136-25aa-4005-a1f8-7debd24f39a9">
