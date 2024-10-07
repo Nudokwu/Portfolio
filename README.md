@@ -5,6 +5,13 @@ The "Song Name Generator" is a React-based web application that allows users to 
 
 In the project directory, you can run:
 
+### 'npm install'
+
+When you run npm install in the root directory of your project (where package.json is located), npm reads the package.json file and installs all the listed dependencies (both dependencies and devDependencies).
+
+Creates node_modules Directory:
+The command creates a node_modules directory in the project folder (if it doesn’t exist already) and installs the dependencies into that directory.
+
 ### `npm start`
 
 Runs the app in the development mode.\
